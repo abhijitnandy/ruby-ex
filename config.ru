@@ -235,6 +235,9 @@ pre {
       <p>
         So, this is how it works. Hmmm!
       </p>
+      <p>
+        Updating the application now with this line
+      </p>
     </section>
   </div>
 </section>
