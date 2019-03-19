@@ -233,10 +233,10 @@ pre {
     <section class='col-xs-12 col-sm-6 col-md-6'>
       <h2>I think it worked!</h2>
       <p>
-        So, this is how it works. Hmmm!
+        Welcome!
       </p>
       <p>
-        And another update
+        Minor change
       </p>
     </section>
   </div>
